@@ -1,7 +1,7 @@
 # default config
 baseurl = "http://toiyeucaphe.github.io"
 languageCode = "en-us"
-title = "Parsa Hugo | Personal Blog Template"
+title = "Tôi Yêu Cà Phê | Personal Blog & Food"
 theme = "parsa-hugo"
 summaryLength = "10"
 paginate = 6
@@ -109,7 +109,7 @@ expire_days = 2
 # social site
 [[params.social]]
 icon = "ti-facebook"
-link = "https://facebook.com/themefisher"
+link = "https://facebook.com/toiyeucaphe.official"
 
 [[params.social]]
 icon = "ti-twitter-alt"
